@@ -21,19 +21,22 @@ The test file will hold a square map as follows: The first line will contain an 
 Your program should print the fastest route, and the time taken to to make your way from the castle to the Princess’s tower along the fastest route.
 
 ##### SAMPLE INPUT:
+```
 7
-RTFMMMF
-FMFMMMM
-RRFFMRR
-FRFFFMR
-FRMMFFR
-FFMMMMR
-RRRCRRR
-
+RTFMMMF  
+FMFMMMM  
+RRFFMRR  
+FRFFFMR  
+FRMMFFR  
+FFMMMMR  
+RRRCRRR  
+```
 ##### SAMPLE OUTPUT:
+```
 West, west, north, north, north, north, north. 10 hours to reach the Princess.
+```
 
 ### Authors:
-> Victor Ogundipe,
-> Matthew Kluzak,
+> Victor Ogundipe,  
+> Matthew Kluzak,  
 > Levi Barker
