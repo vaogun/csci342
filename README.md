@@ -1,4 +1,9 @@
 ### TODO:
+- Ability to read from file
+- Travserse through map
+- Search for fastest path
+- Print output
+- Test (optional)
 
 ### Design:
 _How should we represent the requirements in code?_
