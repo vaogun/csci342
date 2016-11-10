@@ -1,7 +1,13 @@
-
 ### TODO:
 
-### Useful Stuff
+### Design:
+_How should we represent the requirements in code?_
+- Map (2D array) ???
+```c++
+char ** map = new * char[_numberOfLines];
+```
+
+### Requirements
 - Tower     (End)
 - Castle    (Start)
 - Roads     (1 hour to cross)
