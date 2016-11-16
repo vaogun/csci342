@@ -1,5 +1,5 @@
 ### TODO:
-- Ability to read from file
+- ~~Ability to read from file~~
 - Travserse through map
 - Search for fastest path
 - Print output
