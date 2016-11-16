@@ -8,7 +8,7 @@
 ### Design:
 _How should we represent the requirements in code?_
 
-_a*, IDA*_ - graph algorithms
+_a\*, IDA\*_ - graph algorithms
 
 Weighted Graph 
 - https://www.quora.com/How-can-I-implement-a-weighted-directed-graph-in-C++-or-Java-using-object-oriented-programming
