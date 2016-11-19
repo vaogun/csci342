@@ -12,6 +12,7 @@ _a\*, IDA\*_ - graph algorithms
 
 _Adjacency List vs. Adjacency Matrix_ 
 - http://stackoverflow.com/a/20106523 
+- https://www.youtube.com/watch?v=JIqvkSGQj7s
 
 
 Weighted Graph 
